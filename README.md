@@ -6,9 +6,15 @@ https://play.google.com/store/apps/details?id=com.premifarm.grower&pli=1
 
 
 # Additional Urls
+```
  https://grower.free.beeceptor.com/getfloorsnumber
+```
+```
  https://grower.free.beeceptor.com/get_floor1
+```
+```
  https://capacitor-community.github.io/electron/docs/gettingstarted
+```
 
 # Premifarm
  Ionic(React, Typescript, Tailwind CSS)
